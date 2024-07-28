@@ -3,4 +3,4 @@ Home:
 - site: https://www.computerenhance.com/
 
 appearance:
-- [X86 Needs To Die](https://youtu.be/xCBrtopAG80) by @ThePrimeTimeagen
+- [X86 Needs To Die](https://youtu.be/xCBrtopAG80) by [@ThePrimeTimeagen](https://www.youtube.com/@ThePrimeTimeagen)
